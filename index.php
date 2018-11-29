@@ -1,6 +1,6 @@
 <?php
 
-echo 'New App';
+echo 'PHP app';
 
 
 ?>
